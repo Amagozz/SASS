@@ -1,0 +1,30 @@
+.btn {
+  width: 200px;
+  padding: 10px 0;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+}
+.btn.btn-naranja {
+  background: orange;
+  color: #ffffff;
+}
+.btn.btn-naranja:hover {
+  background: gray;
+}
+.btn.btn-rojo {
+  background: purple;
+  color: #ffffff;
+}
+.btn.btn-rojo:hover {
+  background: #404040;
+}
+.btn.btn-amarillo {
+  background: yellow;
+  color: #000000;
+}
+.btn.btn-amarillo:hover {
+  background: gray;
+}
